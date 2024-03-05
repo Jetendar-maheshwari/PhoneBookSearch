@@ -1,0 +1,18 @@
+# Ignore node_modules directory for both projects
+**/node_modules/
+
+# Ignore build output for both projects
+**/build/
+**/dist/
+
+# Ignore environment variables file for both projects
+**/.env
+
+# Ignore IDE and editor files for both projects
+**/.vscode/
+**/.idea/
+**/*.iml
+
+# PhoneBook specific ignores
+PhoneBook/.env
+PhoneBookAPI/db.sqlite
