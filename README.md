@@ -16,6 +16,8 @@ The Phone Book Application provides a user-friendly interface for searching the 
 
 ## Installation
 
+- Clone the repository from GitHub.
+
 ## Phone Book API - Start Apollo Server
 
 To set up the Phone Book API, follow these steps:
@@ -39,11 +41,9 @@ npm start
 
 To set up the project, follow these steps:
 
-1. Clone the repository from GitHub.
+1. Navigate to the Project PhoneBook directory in your terminal.
 
-2. Navigate to the Project PhoneBook directory in your terminal.
-
-3. Install dependencies by running:
+2. Install dependencies by running:
 
 ```
 npm install
@@ -75,7 +75,7 @@ This will execute unit tests for the components using Jest.
 - Component Modularity: Component was structured into reusable pieces to foster modularity and ease of maintenance.
 - Material UI for Responsive Design: Material UI was implemented to achieve responsive design across different devices.
 - GraphQL and Apollo Server Integration: GraphQL and Apollo Server were leveraged to optimize data querying and communication between the frontend and backend.
-- The unit testing of components using Jest ensures the robustness and reliability of the application, validating the functionality of individual components.
+- The unit testing of components using Jest ensures the robustness and reliability of the application, validating the functionality of component.
 
 ## Learn more from the documentation to create a project
 
