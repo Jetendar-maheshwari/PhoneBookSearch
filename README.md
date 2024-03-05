@@ -4,7 +4,7 @@ This project is a Phone Book Application built with JavaScript, Material UI, Nod
 
 ## Overview
 
-The Phone Book Application provides a user-friendly interface for managing contacts efficiently. Users can add, search, update, and delete contacts seamlessly.
+The Phone Book Application provides a user-friendly interface for searching the phone number by user name.
 
 ## Features
 
