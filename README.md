@@ -16,7 +16,7 @@ The Phone Book Application provides a user-friendly interface for searching the 
 
 ## Installation
 
-- Clone the repository from GitHub.
+1. Clone the repository from GitHub.
 
 ## Phone Book API - Start Apollo Server
 
