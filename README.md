@@ -1,6 +1,6 @@
 # Phone Book Application
 
-This project is a Phone Book Application built with JavaScript, Material UI, Node.js, React, Apollo Server, GraphQL, and Jest for unit testing.
+This project is a Phone Book Application built with JavaScript, Material UI, NodeJS, React, Apollo Server, GraphQL, and Jest for unit testing.
 
 ## Overview
 
