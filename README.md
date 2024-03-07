@@ -69,17 +69,6 @@ npm test
 
 This will execute unit tests for the components using Jest.
 
-3. To run the e2e end-to-end test case for the complete application cypress is setup for that testing
-
-```
-npx cypress run
-```
-And, for open the cypress tool
-
-```
-npx cypress open
-```
-
 ## Technologies Used
 
 - React Framework: React was chosen for its efficiency in building interactive user interfaces.
