@@ -34,7 +34,7 @@ npm install
 npm start
 ```
 
-3. Start the Apollo Server
+3. Start the Apollo Server 
    🚀 at: http://localhost:4000/
 
 ## Phone Book UI - Start React Client Application
